@@ -56,9 +56,9 @@ export function SurprisePopup() {
             <Button
               onClick={closeSurprise}
               size="lg"
-              className="bg-gradient-sunset text-white hover:scale-105 transition-transform duration-200 text-xl px-8 py-4"
+              className="border border-4 border-primary bg-gradient-sunset text-white hover:scale-105 transition-transform duration-200 text-xl px-8 py-4"
             >
-              Thank You My Love! 💕
+              Click Here ! 💕
             </Button>
           </div>
         </Card>
