@@ -84,6 +84,17 @@ export function PhotoGallery() {
         src: "/ruchi5.jpg",
         caption: "",
         memory: "",
+      },
+         {
+        id: 12,
+        src: "/ruchi6.jpg",
+        caption: "",
+        memory: "",
+      },   {
+        id: 13,
+        src: "/ruchi7.jpg",
+        caption: "",
+        memory: "",
       }
     ]
 
