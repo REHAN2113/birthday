@@ -55,6 +55,36 @@ export function PhotoGallery() {
         caption: " Aapli Aniversary",
         memory: "Rasmalai Cake Banvl hot tu aaplay anivarsary chya divshi kadhich Ny visru shkt to divas.",
       },
+         {
+        id: 7,
+        src: "/ruchi1.jpg",
+        caption: "",
+        memory: "",
+      },
+      {
+        id: 8,
+        src: "/ruchi2.jpg",
+        caption: "",
+        memory: "",
+      },
+      {
+        id: 9,
+        src: "/ruchi3.jpg",
+        caption: "",
+        memory: "",
+      },
+      {
+        id: 10,
+        src: "/ruchi4.jpg",
+        caption: "",
+        memory: "",
+      },
+      {
+        id: 11,
+        src: "/ruchi5.jpg",
+        caption: "",
+        memory: "",
+      }
     ]
 
     // Initialize photos as hidden
